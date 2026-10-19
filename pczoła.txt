@@ -1,0 +1,24 @@
+robotnice
+nastroj
+wydajność (w rozkładzie normalnym)
+wiek
+matka
+płeć bool (0-chłop 1-baba)
+rojliwość
+
+królowa
+
+
+
+rojliwość
+rojenie może nastąpić kiedy "siła rodziny" jest za duża lub jest za ciasno w ulu
+
+pracowitość
+
+
+
+
+
+pogoda
+jajevzka: haploidalne, diploidalne
+czerwienie matki pszczelej
