@@ -1,12 +1,36 @@
-robotnice
-nastroj
-wydajność (w rozkładzie normalnym)
-wiek
-matka
-płeć bool (0-chłop 1-baba)
-rojliwość
+##czerw##
+wiek: int (dni) (po 3 dniach decyzja o królowej) (0-15 dni- królowa, 0-20 robotnica, 0-23 drom/truteń)
+płeć: bool (0-chłop, 1-laska)
+królowa?: bool (0-robotnica, 1-królowa)
+sytość: float (0-1, reaches 0 = śmierć)
 
-królowa
+##robotnice##
+wiek
+nastrój
+wydajność (w rozkładzie normalnym, zależna lekko od temperatury) (33-36)
+
+matka
+rojliwość (wkurw)
+
+##królowa##
+wiek
+inkubuje: int (ilość jaj którymi jest zapłodniona)
+
+
+##ul##
+hałas
+pojemność
+zapas
+
+
+##świat##
+dzień
+miesiąc
+temperatura
+wilgotność
+opady
+--
+zapobieganie rojowi - usuwanie mateczników
 
 
 
@@ -22,3 +46,11 @@ pracowitość
 pogoda
 jajevzka: haploidalne, diploidalne
 czerwienie matki pszczelej
+
+https://silberkraft.pl/blogs/pszczoy/etapy-rozwoju-pszczo
+https://www.rynek-rolny.pl/artykul/rojenie-pszczol-zdradzamy-metody-skutecznego-zapobiegania.html?page=2
+https://pasieka24.pl/index.php/pl-pl/pasieka-czasopismo-dla-pszczelarzy/91-pasieka-3-2013/1012-objawy-rojenia-si-pszczo-i-postpowanie-z-rojem
+https://pszczelipuls.pl/rasy-pszczol-a-rojliwosc/
+pszczoly24.pl/co-pszczoly-robia-zima-przystosowania-i-zachowania-w-chlodne-miesiace/
+https://przyrodapolska.pl/czerwienie-matki-pszczelej-kiedy-nastepuje-i-jak-je-pobudzic/
+https://pasieka24.pl/index.php/pl-pl/biblioteczka-pszczelarza-z-pasja-ksiazki-pasieki/151-jak-zostac-pszczelarzem/1632-jaka-rase-pszczol-wybrac
