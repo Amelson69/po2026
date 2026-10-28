@@ -22,11 +22,20 @@ public class CodingBat {
         return ans;
     }
 
+    public String stringBits(String str) {
+        String ans = "";
+        for (int i=0; i<str.length();i=i+2){
+            ans = ans + str.charAt(i);
+        }
+        return ans;
+    }
+
+
     public static void main(String[] args) {
         CodingBat test1 = new CodingBat(); // tworzymy obiekt
         System.out.println(test1.array123(new int[]{1, 2, 3}));
-        Zad2 test2 = new Zad2(); // tworzymy obiekt
-        System.out.println(test2.array667(new int[]{6, 6, 6}));
+        System.out.println(test1.array667(new int[]{6, 6, 6}));
+        System.out.println(test1.stringBits("Hello"));
     }
 }
 
