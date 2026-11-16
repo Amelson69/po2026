@@ -1,8 +1,7 @@
-package lab.lab2;
+package lab.src.main.java.agh.po.lab2;
 //zadanie 3
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Zad3Timer {
     static void main(String[] args){

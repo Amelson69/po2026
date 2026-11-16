@@ -1,4 +1,4 @@
-package lab.lab3;
+package lab.src.main.java.agh.po.lab3;
 
 import static org.junit.Assert.*;
 import java.util.HashMap;

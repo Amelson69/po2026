@@ -1,7 +1,4 @@
-package lab.lab2;
-
-import java.io.InputStream;
-import java.util.Scanner;
+package lab.src.main.java.agh.po.lab2;
 
 
 public class PorWyn {

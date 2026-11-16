@@ -1,4 +1,4 @@
-package lab.lab2;
+package lab.src.main.java.agh.po.lab2;
 import java.util.ArrayList;
 
 
